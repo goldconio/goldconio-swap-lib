@@ -1,6 +1,6 @@
 {
   "name": "@goldconio/goldconio-swap-lib",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "Goldconio Swap Lib",
   "files": [
     "contracts",
