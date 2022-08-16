@@ -1,5 +1,5 @@
 {
-  "name": "goldconio-swap-lib",
+  "name": "@goldconio/goldconio-swap-lib",
   "version": "1.0.1",
   "description": "Goldconio Swap Lib",
   "files": [
